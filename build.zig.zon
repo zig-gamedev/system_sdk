@@ -1,5 +1,6 @@
 .{
-    .name = "system_sdk",
+    .name = .system_sdk,
+    .fingerprint = 0xbfbfb3b336145c6a,
     .version = "0.3.0-dev",
     .paths = .{
         "build.zig",
